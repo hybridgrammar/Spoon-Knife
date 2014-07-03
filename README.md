@@ -1,9 +1,3 @@
 ### Well hello there!
-
-This repository is meant to provide an example for *forking* a repository on GitHub.
-
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
-
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+WHO IS SOUNDBOY?
+Soundboy is anyone or anything that breaks your signal flow. Soundboy dwells within the wrong adapter for your device, that traffic light that is taking too long or that person that stands between you and your immediate or long term goal.  Soundboy is the ghost in the machine.  In Raz Mesinai’s “Soundboy Manifesto” we follow a young Producer’s evolution within the world of sound and soundsystems.  This journey involves trials and tribulations faced by the modern DJ / Producer and also documents the presence of and battles with Soundboy along the way.
